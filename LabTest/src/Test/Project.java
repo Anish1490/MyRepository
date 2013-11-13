@@ -16,6 +16,9 @@ public class Project {
 	
 	
 	
+	public Sprint SprintDetails;
+	
+	
 	
 	
 }
